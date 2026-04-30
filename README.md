@@ -1,4 +1,5 @@
 # 🚚 Logística de Alta Performance: Análise de SLA e Eficiência de Entregas
+![Dashboard de Logística](dashboard_logistica.png)
 
 Este projeto foca na camada de engenharia e análise de dados para o setor logístico. Utilizando o dataset real do E-commerce brasileiro (Olist), desenvolvi queries complexas em SQL para transformar dados brutos em métricas de decisão de negócio.
 
